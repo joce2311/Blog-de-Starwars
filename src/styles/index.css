@@ -1,3 +1,15 @@
 /* 
     General Styles
 */
+.barra{
+    background-color: greenyellow;
+  width: 100%;
+  }
+.logo{
+    animation: App-logo-spin infinite 20s linear;
+  height: 15vmin;
+  pointer-events: none;
+  border-radius: 100%;
+  object-fit: cover;
+  
+  }
