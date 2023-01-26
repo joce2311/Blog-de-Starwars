@@ -5,12 +5,12 @@ const getState = ({ getStore, getActions, setStore }) => {
 				{
 					title: "FIRST",
 					background: "red",
-					initial: "white"
+					initial: "red"
 				},
 				{
 					title: "SECOND",
 					background: "red",
-					initial: "white"
+					initial: "red"
 				}
 			]
 		},
